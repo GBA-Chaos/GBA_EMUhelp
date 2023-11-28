@@ -1,5 +1,5 @@
 html {
-  background-color: green;
+  background-color: black;
   background-size: cover;
 }
 
@@ -42,7 +42,7 @@ display: block;overflow: hidden; border-style: inset; border-width: 2px;}
 
 body {
   text-align: center;
-  color: black;
+  color: green;
   font-family: "Verdana", Sans-serif;
   font-size: 20px;
 }
